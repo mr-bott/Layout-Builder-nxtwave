@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.Header {
+  height: 10vh;
+  width: 100%;
+  background-color: #e2e8f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+}

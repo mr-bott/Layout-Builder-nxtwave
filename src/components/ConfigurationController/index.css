@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.Configuration {
+  width: 100vw;
+  padding-left: 10vw;
+  margin-top: 0px;
+  background-color: #475569;
+  height: 25vh;
+  display: flex;
+  justify-content:center;
+  align-items:flex-start;
+  flex-direction: column;
+}
+.heading {
+  margin-top: 0;
+}
